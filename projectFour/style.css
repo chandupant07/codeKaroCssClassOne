@@ -5,7 +5,7 @@
 }
 
 .container {
-  width: 600px;
+  width: 500px;
   margin: 100px auto;
 }
 
@@ -19,10 +19,11 @@
 }
 
 input {
-  width: 100%;
-  padding: 10px;
-  margin-top: 10px;
+  width: 50%;
+  padding: 12px;
+  margin-top: 12px;
   border-radius: 10px;
+  margin-left: 120px;
 }
 
 .btn-dark {
@@ -42,4 +43,9 @@ input {
 p {
   text-align: center;
   margin-top: 20px;
+}
+
+.footer {
+  width: 600px;
+  padding: 27px;
 }
